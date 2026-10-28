@@ -1,0 +1,1 @@
+# renovate_guava_variant_osv
